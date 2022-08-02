@@ -1,0 +1,4 @@
+row_0,A Out,A Home,A Sleep,,,Accuracy,Out Sens.,Home Sens.,Sleep Sens.
+P Out,7,0,0,,,0.884615385,0.636363636,0.954545455,0.947368421
+P Home,4,21,1,,,,,,
+P Sleep,0,1,18,,,,,,

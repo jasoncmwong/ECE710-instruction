@@ -1,0 +1,10 @@
+hr_mean: 0.419
+rr_mean: 0.201
+accy_mean: 0.181
+rr_var: 0.080
+hr_var: 0.055
+accy_var: 0.028
+accz_var: 0.012
+accz_mean: 0.010
+accx_mean: 0.008
+accx_var: 0.007
